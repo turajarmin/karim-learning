@@ -1,0 +1,19 @@
+div.main{
+    background-color: black;
+    width: auto;
+    margin: 50px auto;
+    padding: 10px 20px;
+}
+div.main>h1{
+    text-align: center;
+    text-transform: capitalize;
+    color:whitesmoke;
+    margin-bottom: 25px;
+}
+div.main>p{
+    color: white;
+}
+div.main>a{
+    display: inline-block;
+    background-color: lime;
+}
